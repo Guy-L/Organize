@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A8E4FF</color>
+    <color name="colorSecondary">#ffffff</color>
+
+    <color name="tag">#5A5A5A</color>
+    <color name="tagBackground">#F7F7F7</color>
+    <color name="tagBorder">#F0F0F0</color>
+</resources>

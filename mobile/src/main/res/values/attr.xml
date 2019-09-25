@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ElementView">
+        <!--<attr name="" format="" />-->
+    </declare-styleable>
+
+    <declare-styleable name="NodeView">
+        <!--<attr name="" format="" />-->
+    </declare-styleable>
+</resources>
