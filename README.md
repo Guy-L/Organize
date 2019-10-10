@@ -2,7 +2,7 @@ Currently adapting the project for collaborative use.
 
 Project description is also to be changed.
 
-____.-^-.____
+______________________
 
 The project is currently Public.
 
