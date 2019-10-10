@@ -1,13 +1,8 @@
-# Organize
-Self-management app for note-keeping, researching and more. 
-
-
-
 Currently adapting the project for collaborative use.
 
 Project description is also to be changed.
 
-
+---...---
 
 The project is currently Public.
 
