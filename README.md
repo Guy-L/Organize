@@ -1,11 +1,5 @@
-Currently adapting the project for collaborative use.
+#This README is a WIP.
 
-Project description is also to be changed.
-
-______________________
-
-The project is currently Public.
-
-Because of this, important files have been deleted.
-
-This ensures the project will NOT COMPILE if a public observer were to download it. 
+One important file has been removed to ensure it wouldn't compile.
+Since then, I learned what a license was. I'll fix this up soon.
+If you're reading this this early... hi!
